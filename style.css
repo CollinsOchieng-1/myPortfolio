@@ -5,6 +5,17 @@ body{
     background-repeat: no-repeat;
     font-weight: bold;
 }
+
+
+.header{
+    text-align: center;
+    color: black;
+    font-style: normal;
+    font-size: 200%;
+    background-color: black;
+    color:white;
+
+}
 .name{
     height: 150%;
     width: 30%;
@@ -12,12 +23,7 @@ body{
     padding-bottom: 10%;
     size: cover;
 }
-    
 
-.header{
-    text-align: center;
-
-}
 .About{
     text-align-last: left;
     color:black;
