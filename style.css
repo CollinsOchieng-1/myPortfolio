@@ -1,16 +1,17 @@
 body{
     background-image: url(./image/DSC_0313.JPG) ;
-    background-position: relative;
+    background-position:relative;
     background-size:cover ;
     background-repeat: no-repeat;
+    
 }
 .header{
     text-align: center;
 
 }
-.About me{
+.About{
     text-align-last: left;
     color:black;
-    font-size: 150%;
+    font-size: 160%;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
 }
