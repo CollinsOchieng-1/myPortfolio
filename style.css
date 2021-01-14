@@ -8,3 +8,9 @@ body{
     text-align: center;
 
 }
+.About me{
+    text-align-last: left;
+    color:black;
+    font-size: 150%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
