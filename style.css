@@ -3,6 +3,7 @@ body{
     background-position:relative;
     background-size:cover ;
     background-repeat: no-repeat;
+    font-weight: bold;
     
 }
 .header{
@@ -17,16 +18,22 @@ body{
 }
 #pop{
     color:red;
-    font-size: 150%;
+    font-size: 200%;
     font-family: italic;
+    font-weight:bold;
 }
 #pizza{
     color:red;
-    font-size:150%;
+    font-size:200%;
+    font-weight:bold;
 }
 .link{
     color:black;
+    font-weight: bolder;
+    font-size: 150%;
 }
 #linkage{
     color: black;
+    font-weight: bolder;
+    font-size: 150%;
 }
