@@ -17,6 +17,10 @@ body{
 }
 #pop{
     color:red;
-    font-size: 140%;
+    font-size: 150%;
     font-family: italic;
+}
+#pizza{
+    color:red;
+    font-size:150%;
 }
