@@ -10,7 +10,7 @@
 
 * Once you click on the link it will automatic take you to my potforlio where my description is.
 
-### link
+### Link
 * This is the link to my website
 * { https://github.com/CollinsOchieng-1/myPortfolio.git}
 
