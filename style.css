@@ -4,36 +4,28 @@ body{
     background-size:cover ;
     background-repeat: no-repeat;
     font-weight: bold;
-    
 }
+
+
 .header{
     text-align: center;
+    color: black;
+    font-style: normal;
+    font-size: 200%;
+    background-color: black;
+    color:white;
 
 }
-.About{
-    text-align-last: left;
-    color:black;
-    font-size: 160%;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+.name{
+    height: 150%;
+    width: 30%;
+    float: left;
+    padding-bottom: 10%;
+    size: cover;
 }
-#pop{
-    color:red;
-    font-size: 200%;
-    font-family: italic;
-    font-weight:bold;
+.cyber{
+    padding-bottom: 10%;
 }
-#pizza{
-    color:red;
-    font-size:200%;
-    font-weight:bold;
-}
-.link{
-    color:black;
-    font-weight: bolder;
-    font-size: 150%;
-}
-#linkage{
-    color: black;
-    font-weight: bolder;
-    font-size: 150%;
+.pizza{
+    padding-bottom: 10%;
 }
