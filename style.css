@@ -4,8 +4,16 @@ body{
     background-size:cover ;
     background-repeat: no-repeat;
     font-weight: bold;
-    
 }
+.name{
+    height: 150%;
+    width: 30%;
+    float: left;
+    padding-bottom: 10%;
+    size: cover;
+}
+    
+
 .header{
     text-align: center;
 
